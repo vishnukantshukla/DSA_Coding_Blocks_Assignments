@@ -13,6 +13,5 @@ public class Print_Series {
                 n1++;
             }
         }
-
     }
 }
